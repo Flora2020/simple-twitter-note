@@ -2,7 +2,7 @@
 
 #### 前台
 | Feature                  | method & URL         | query params   |
-| ------------------------ | ------- | ---------- |--------------- |
+| ------------------------ | -------------------- | --------------- |
 | 註冊                     | POST /signup          | |
 | 登入                     | POST /login           | |
 | 瀏覽所有 tweets           | GET /tweets           | userId, likedUserId |
